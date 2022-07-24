@@ -1,6 +1,6 @@
 let express = require("express");
 let masterRouter = require("./src/route/index");
-let mongoDB = require("./core/mongoConnection");
+let mongoDB = require("./core/db/mongoConnection");
 
 const init = async () => {
 
