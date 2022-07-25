@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-const addressInfo = require("../src/model/zipCodeModel");
+const addressInfo = require("../../src/model/zipCodeModel");
 
 module.exports = async () => {
     await mongoose.connect('mongodb://localhost/api-backend');
