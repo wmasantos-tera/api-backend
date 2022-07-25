@@ -13,11 +13,11 @@
     "type": "git",
     "url": "git+https://github.com/wmasantos-tera/api-backend.git"
   },
-  "author": "",
+  "author": "Wagner Santos",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/wmasantos-tera/api-backend/issues"
   },
   "homepage": "https://github.com/wmasantos-tera/api-backend#readme",
-  "description": ""
+  "description": "Simple API Backend"
 }

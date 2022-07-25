@@ -8,7 +8,7 @@ module.exports = {
 }
 
 async function getZipCode(req, res){
-    let zipCode = req.query.zipCode;
+    let zipCode = req.query.q;
 
     let result = await zipCodeRepository.get(zipCode);
 
